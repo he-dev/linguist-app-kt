@@ -10,7 +10,15 @@ el lápiz - pencil
 # Mods
 
 fuerte - strong
+posiblemente
 
 # Other
 
-y - and
+porque
+pero
+y
+en
+de
+hay
+mañana
+más
