@@ -14,10 +14,10 @@ verbs:
 - tener prisa
 - tener éxito
 - tener razón
-- tener mideo
+- tener miedo
 - tener cuidado
 - tener suerte
-- tener guanas de
+- tener ganas de
 - tener que
 - comer
 - leer
@@ -49,7 +49,7 @@ verbs:
 - jugar: hi
 - terminar
 - descansar: hi
-- encontar: hi
+- encontrar: hi
 
 
 nouns:
@@ -67,18 +67,18 @@ nouns:
 - las ganas
 - el estudio
 - el periódico
-- tio
-- tia
-- padres
-- parientes
-- hermano
-- hermana
-- esposo
-- esposa
-- hijo
-- hija
-- abuelo
-- abuela
+- tío
+- tía
+- los padres
+- los parientes
+- el hermano
+- la hermana
+- el esposo
+- la esposa
+- el hijo
+- la hija
+- el abuelo
+- la abuela
 - el nombre
 - el apellido
 - la tienda
@@ -103,9 +103,9 @@ nouns:
 - la silla
 - la mesa
 - la letra
-- comida
+- la comida
 - la gente
-- ropa
+- la ropa
 - el lunes
 - el martes
 - el miércoles
@@ -158,7 +158,7 @@ mods:
 - abierto
 - cerrado
 - hablador
-- timido
+- tímido
 - contento
 - bueno
 - malo
