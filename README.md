@@ -21,5 +21,8 @@ Additionaly the `vocabulary-practice.yaml` file can contain auxiliary hints.
 
 # Exercises
 
-- Absurdity welcome.
+- Absurdity welcome = unusual scenarios, weird combinations, ridiculous contexts
+- BUT the cause-effect, relationships, and internal logic must still make sense
+- Don't just throw random vocabulary together without coherent meaning creating random word salad.
+- At least one I, you, he/she, we, they sentence.
 - Score results in percentage on word-by-word basis.

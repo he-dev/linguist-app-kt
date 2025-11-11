@@ -11,43 +11,45 @@ verbs:
 - tener hambre
 - tener sed
 - tener sueño
-- tener prisa hurry
+- tener prisa
 - tener éxito
 - tener razón
 - tener mideo
 - tener cuidado
 - tener suerte
+- tener guanas de
+- tener que
 - comer
 - leer
 - creer
-- aprender
-- vender
-- deber
+- aprender: hi
+- vender: hi
+- deber: hi
 - vivir
 - abrir
 - recibir
-- descubrir
-- subir
+- descubrir: hi
+- subir: hi
 - escribir
 - decidir
 - asistir
-- enseñar
-- caminar
+- enseñar: hi
+- caminar: hi
 - buscar
 - mirar
-- llevar
+- llevar: hi
 - hablar
 - bailar
 - tomar
-- comprar
+- comprar: hi
 - escuchar
-- viajar
-- llegar
+- viajar: hi
+- llegar: hi
 - cantar
-- jugar
+- jugar: hi
 - terminar
-- descansar
-- encontar
+- descansar: hi
+- encontar: hi
 
 
 nouns:
@@ -104,9 +106,26 @@ nouns:
 - comida
 - la gente
 - ropa
+- el lunes
+- el martes
+- el miércoles
+- el jueves
 - el viernes
+- el sábado
+- el domingo
 - la ventana
 - los niños
+- la muerte
+- la estación
+- la primavera
+- el verano
+- el otoño
+- el invierno
+- el mes
+- el punto
+- la fecha
+
+
 
 
 
@@ -115,7 +134,7 @@ mods:
 
 - alto
 - guapo
-- muerte
+- muerto
 - único
 - fácil
 - difícil
@@ -166,3 +185,11 @@ other:
 - cada semana
 - mejor que
 - así que
+- antes de
+- después de
+- por la mañana
+- por la tarde
+- por la noche
+- cómo?
+- a
+- ahora mismo
