@@ -1,0 +1,253 @@
+verbs:
+
+  - estar
+  - ser
+  - ir
+  - tener
+  - pasar: new
+
+  - tener calor: new
+  - tener frio: new
+  - tener hambre: new
+  - tener sed: new
+  - tener sueño: new
+  - tener prisa: new
+  - tener éxito: new
+  - tener razón: new
+  - tener miedo: new
+  - tener cuidado: new
+  - tener suerte: new
+  - tener ganas de: new
+  - tener que: new
+  - comer: new
+  - leer: new
+  - creer: new
+  - aprender: hi
+  - vender: hi
+  - deber: hi
+  - vivir: new
+  - abrir: new
+  - recibir: new
+  - descubrir: hi
+  - subir: hi
+  - escribir
+  - decidir: new
+  - asistir: new
+  - enseñar: hi
+  - caminar: hi
+  - buscar: new
+  - mirar: new
+  - llevar: hi
+  - hablar
+  - bailar
+  - tomar
+  - comprar: hi
+  - escuchar: hi
+  - viajar: hi
+  - llegar: hi
+  - cantar
+  - jugar: hi
+  - terminar: new
+  - descansar: hi
+  - encontrar: hi
+
+  - necesitar: lo
+  - ayudar: lo
+  - trabajar: lo
+  - estudiar: lo
+
+
+nouns:
+
+  - la biblioteca: lo
+  - el hospital: lo
+  - el dólar: lo
+  - el examen: lo
+  - el café: lo
+  - el trabajador: lo
+  - el amigo: lo
+  - la amiga: lo
+  - el novio: lo
+  - la novia: lo
+  - el libro: lo
+  - el día: lo
+  - el hotel: lo
+  - la casa: lo
+  - la clase: lo
+  - la pared: lo
+  - la música: lo
+  - la mano: lo
+  - el parque: lo
+  - el calor: new
+  - el hambre: new
+  - la sed: new
+  - el sueño: new
+  - la prisa: new
+  - el éxito: new
+  - la razón: new
+  - el miedo: new
+  - el cuidado: new
+  - la suerte: new
+  - las ganas: new
+  - el estudio: new
+  - el periódico: new
+  - el tío
+  - la tía
+  - los padres
+  - los parientes
+  - el hermano
+  - la hermana
+  - el esposo
+  - la esposa
+  - el hijo
+  - la hija
+  - el abuelo
+  - la abuela
+  - el nombre: new
+  - el apellido: new
+  - la tienda
+  - la oficina
+  - la iglesia
+
+  - el aeropuerto
+  - el mercado
+  - el carro: new
+  - el águila
+  - el zapato
+  - el deporte
+  - el vecino
+  - la vecina
+  - el hombre
+  - la mujer
+  - el lápiz
+  - el papel
+  - el mapa
+  - el problema
+  - el sistema
+  - la silla
+  - la mesa: new
+  - la letra
+  - la comida: new
+  - la gente: new
+  - la ropa: new
+  - el lunes: new
+  - el martes: new
+  - el miércoles: new
+  - el jueves: new
+  - el viernes: new
+  - el sábado: new
+  - el domingo: new
+  - la ventana: new
+  - los niños
+  - la muerte: new
+  - la estación: new
+  - la primavera: new
+  - el verano: new
+  - el otoño: new
+  - el invierno: new
+  - el mes: new
+  - el punto: new
+  - la fecha: new
+
+  - el libro
+  - el lápiz
+  - el año
+  - el mediodía
+  - la medianoche
+
+
+
+
+
+mods:
+
+  - alto
+  - guapo
+  - muerto
+  - único
+  - fácil
+  - difícil
+  - finalmente
+  - caliente
+  - posiblemente
+
+  - preocupado
+  - tranquilo
+
+  - alegre: hi
+  - enojado: hi
+  - feliz
+  - aburrido
+  - cansado: hi
+  - enfermo
+  - ocupado
+  - ordenado
+  - roto: new
+  - abierto: new
+  - cerrado: new
+  - hablador
+  - tímido
+  - contento: new
+  - bueno: hi
+  - malo: hi
+  - mucho: hi
+  - muchos: hi
+  - poco: hi
+  - pocos: hi
+  - varios: new
+  - ambos: new
+  - viejo: hi
+  - joven: hi
+  - largo
+  - corto
+  - caro
+
+  - fuerte: avoid
+  - trabajador: avoid
+  - nuevo: avoid
+  - pequeño: avoid
+  - triste: avoid
+  - nervioso: avoid
+  - frustrado: avoid
+  - confundido: avoid
+
+
+other:
+
+  - otro: new
+  - hoy: new
+  - cerca de
+  - nadie: new
+  - todo el día: new
+  - cada semana: new
+  - mejor que: new
+  - así que
+  - antes de: new
+  - después de: new
+  - por la mañana: new
+  - por la tarde: new
+  - por la noche: new
+  - cómo?: new
+  - a: new
+  - ahora mismo: new
+
+  - porque
+  - pero
+  - y
+  - en
+  - de
+  - hay
+  - mañana
+  - más
+
+
+phrases:
+
+  - Que hora es?
+  - Cuál es la fecha de hoy?
+  - Son las tres y diez.
+  - a las sinco
+  - Que quiere decir?
+  - Es la una.
+  - Es mediodía.
+  - Es medianoche.
